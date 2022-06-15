@@ -1,0 +1,344 @@
+@media screen and (max-width: 930px ) {
+    .hero{
+        &__title{
+        font-size: 50px;
+        }
+    }
+    .big{
+        &__img{
+            height: 470px;
+        }
+    }
+    }
+@media screen and (max-width: 923px ) {
+    .hero{
+        &__title{
+        font-size: 50px;
+        }
+    }
+    
+}
+@media screen and (max-width: 915px) {
+    .big{
+        &__img{
+            height: 450px;
+        }
+    }
+}
+@media screen and (max-width: 885px) {
+    .hero{
+        &__suptitle{
+            font-size: 27px;
+        }
+    }
+}
+@media screen and (max-width: 870px ) {
+    .hero{
+        &__title{
+        font-size: 48px;
+        }
+    }
+    }
+@media screen and (max-width: 877px ) {
+    .hero{
+        &__suptitle{
+        font-size: 25px;
+        }
+    }
+    }
+@media screen and (max-width: 855px ) {
+    .hero{
+        &__title{
+        font-size: 40px;
+        }
+        &__suptitle{
+            margin-top: 15px;
+            }
+    }
+    
+}
+@media screen and (max-width: 813px ) {
+    .hero{
+        &__title{
+            font-size: 38px;
+        }
+}
+    .posts{
+        &__content{
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+    }
+    .big{
+        &__left{
+            padding-right: 31px;
+            padding-left: 50px;
+            padding-top: 98px;
+        }
+        &__img{
+            height: 390px;
+        }
+    }
+}
+@media screen and (max-width: 800px ) {
+    .hero{
+        &__title{
+        font-size: 37px;
+        }
+    }
+    }
+@media screen and (max-width: 790px) {
+    .hero{
+        &__title{
+            font-size: 35px;
+        }
+    }
+        .big{ 
+            &__img{
+                height: 380px;
+            }
+        }
+
+}
+@media screen and (max-width: 813px ){
+    .actual{
+        &__title{
+            font-size: 28px;
+        }
+    }
+}
+@media screen and (max-width: 803px ){
+    .hero{
+        &__title{
+            font-size: 37px;
+        }
+    }
+}
+@media screen and (max-width: 793px) {
+    .big{ 
+        &__img{
+            height: 370px;
+        }
+    }
+}
+@media screen and (max-width: 794px) {
+    .hero{
+        &__title{
+            font-size: 36px;
+        }
+        }
+        .hero{
+            &__title{
+                font-size: 32px;
+            }
+            &__suptitle{
+                margin-top: 33px;
+            }
+            }
+        }
+        @media screen and (max-width: 795px) {
+            .hero{
+                &__title{
+                    font-size: 35px;
+                }
+                }
+                .actual{
+                    &__title{
+                        font-size: 27px;
+                    }
+                }
+             }
+@media screen and (max-width: 791px) {
+        .hero{
+            &__title{
+                font-size: 32px;
+            }
+            }
+            }
+            @media screen and (max-width: 778px) {
+                .big{ 
+                    &__img{
+                        height: 360px;
+                    }
+                }
+            }
+@media screen and (max-width: 779px){
+    .actual{
+        &__title{
+            font-size: 25px;
+        }
+    }
+    .hero{
+        &__suptitle{
+            font-size: 18px;
+        }
+    }
+            }
+@media screen and (max-width: 779px){
+    .actual{
+        &__title{
+            font-size: 25px;
+        }
+    }
+    .hero{
+        &__suptitle{
+            font-size: 18px;
+        }
+    }
+            }
+@media screen and (max-width: 779px){
+    .hero{
+        &__suptitle{
+            font-size: 17px;
+        }
+    }
+}
+@media screen and (max-width: 769px){
+    .actual{
+        &__title{
+            font-size: 23px;
+        }
+}
+ }
+ @media screen and (max-width: 765px){
+    .hero{
+        &__title{
+            font-size: 30px;
+        }
+        &__suptitle{
+            font-size: 16px;
+        }
+    }
+}
+@media screen and (max-width: 763px) {
+    .big{ 
+        &__img{
+            height: 350px;
+        }
+    }
+}
+@media screen and (max-width: 755px){
+    .hero{
+        
+        &__suptitle{
+            font-size: 15px;
+        }
+    }
+ }
+ @media screen and (max-width: 754px){
+    .hero{
+        
+        &__title{
+            font-size: 29px;
+        }
+    }
+ }
+ @media screen and (max-width: 750px){
+    .actual{
+        &__title{
+            font-size: 22px;
+        }
+ }
+ }
+ @media screen and (max-width: 748px){
+    .hero{
+        
+        &__title{
+            font-size: 28px;
+        }
+    }
+    .big{ 
+        &__img{
+            height: 340px;
+        }
+    }
+ }
+ @media screen and (max-width: 744px){
+    .hero{
+        
+        &__title{
+            font-size: 25px;
+        }
+    }
+ }
+ @media screen and (max-width: 741px){
+    .hero{
+        
+        &__suptitle{
+            font-size: 13px;
+        }
+    }
+ }
+ @media screen and (max-width: 733px){
+    .big{ 
+        &__img{
+            height: 320px;
+        }
+    }
+ }
+ @media screen and (max-width: 727px){
+    .hero{
+        
+        &__title{
+            font-size: 23px;
+        }
+    }
+ }
+ @media screen and (max-width: 726px){
+    .hero{
+        
+        &__suptitle{
+            margin-top: 40px;
+        }
+    }
+ }
+ @media screen and (max-width: 720px){
+    .big{ 
+        &__img{
+            height: 300px;
+        }
+    }
+ }
+ @media screen and (max-width: 713px){
+    .hero{
+        
+        &__title{
+            font-size: 20px;
+        }
+    }
+ }
+ @media screen and (max-width: 695px){
+    .big{ 
+        &__img{
+            height: 280px;
+        }
+    }
+ }
+ @media screen and (max-width: 693px){
+    .hero{
+        
+        &__title{
+            font-size: 18px;
+        }
+    }
+ }
+ @media screen and (max-width: 682px){
+    .hero{
+        
+        &__title{
+            font-size: 15px;
+        }
+    }
+ }
+ @media screen and (max-width: 670px){
+    .big{ 
+        &__img{
+            height: 250px;
+        }
+    }
+    .actual{
+        &__img{
+            height: 210px;
+        }
+    }
+ }

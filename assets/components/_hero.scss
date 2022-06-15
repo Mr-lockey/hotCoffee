@@ -1,0 +1,38 @@
+.hero {
+    background: #FBFBFB;
+    // &__left {
+    //     // display: flex;
+    //     // flex-wrap: wrap;
+    // }
+
+    &__content {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 99px;
+        align-items: center;
+    }
+
+    &__title {
+        @include font(700, 60px, #000000);
+    }
+
+    &__suptitle {
+        @include font(400, 30px, #4A5568);
+        padding-top: 19px;
+    }
+
+    &__right {
+        margin-left: 102px;
+    }
+
+    &__relative {
+        position: relative;
+    }
+
+    &__cup {
+        position: absolute;
+        // right: -95px;
+        // top: -11px;
+    }
+
+}

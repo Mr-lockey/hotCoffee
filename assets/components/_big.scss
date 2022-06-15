@@ -1,0 +1,32 @@
+.big {
+  padding-top: 43px;
+  &__content {
+    width: 965px;
+    display: flex;
+    background: #F7FAFC;
+  }
+  &__left{
+    width: 311px;
+    padding-right: 63px;
+    padding-left: 66px;
+    padding-top: 98px;
+  }
+  &__title {
+    @include font(700, 40px, #000000)
+  }
+  &__description {
+    @include font(400, 16px, #718096);
+    padding-top: 24px;
+  }
+  &__date {
+    @include font(400, 12px, #718096)
+  }
+  &__details {
+    @include font(700, 12px, #2d3748)
+  }
+  &__bottom{
+    margin-top: 31px;
+    display: flex;
+    justify-content: space-between;
+  }
+}
